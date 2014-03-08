@@ -4,3 +4,5 @@
 # Other files and folders
 .metadata/
 forbidden/
+RemoteSystemsTempFiles/
+xampp/
